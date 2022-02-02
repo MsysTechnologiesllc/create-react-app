@@ -1,5 +1,13 @@
 [build]
   base    = "docusaurus/website"
   publish = "docusaurus/website/build"
+  
+  
+  
+  
+  
+  
+  
+  
   command = "npm run build"
   
